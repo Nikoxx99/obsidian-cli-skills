@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian CLI"
+  short_description: "Automatizar vaults y notas con Obsidian CLI"
+  default_prompt: "Usa $obsidian-cli para proponer y ejecutar flujos de Obsidian CLI para mi vault."
